@@ -9,3 +9,12 @@ h1 {
 body {
   background-color: greenyellow;
 }
+
+h2 {
+  color: pink;
+}
+
+p {
+  font-size: large;
+  color: lightpink;
+}
